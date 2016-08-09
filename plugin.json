@@ -1,0 +1,11 @@
+{
+  "name":"Echo Example",
+  "version":"1.0",
+  "author":"Steven Warren <steve@manicapps.com>",
+  "url":"https://github.com/StevenWarren/Coronium-LS-Plugin-Example.git",
+  "support":"steve@manicapps.com",
+  "docs":"https://github.com/StevenWarren/Coronium-LS-Plugin-Example",
+  "dependencies":{
+    
+  }
+}
