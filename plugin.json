@@ -5,7 +5,11 @@
   "url":"https://github.com/StevenWarren/Coronium-LS-Plugin-Example.git",
   "support":"steve@manicapps.com",
   "docs":"https://github.com/StevenWarren/Coronium-LS-Plugin-Example",
-  "dependencies":{
-    
-  }
+  "dependencies":[
+        {
+          "name":"Leaderboard",
+          "version":"",
+          "url":"https://github.com/coroniumcloud/Coronium-LS-Leaderboard.git"
+        }
+  ]
 }
